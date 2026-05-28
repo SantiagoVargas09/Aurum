@@ -96,7 +96,7 @@ def cargar_imagen_local(ruta):
 #   RUTAS DE ARCHIVOS 
 # ══════════════════════════════════════════════════════
 RUTA_LOGO  = r"LOGO + QR/Aurum.jpeg"
-RUTA_QR    = r"LOGO + QR/Dashboard_Aurum2.png"
+RUTA_QR    = r"LOGO + QR/AurumQR.png"
 RUTA_EXCEL = r"xlsx/BALANCE.xlsx"
 # ══════════════════════════════════════════════════════
 
