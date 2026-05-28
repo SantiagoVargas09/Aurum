@@ -93,11 +93,11 @@ def cargar_imagen_local(ruta):
 
 
 # ══════════════════════════════════════════════════════
-#   RUTAS DE ARCHIVOS — edita solo estas líneas
+#   RUTAS DE ARCHIVOS 
 # ══════════════════════════════════════════════════════
-RUTA_LOGO  = r"/workspaces/Aurum/LOGO + QR/Aurum.jpeg"
-RUTA_QR    = r"/workspaces/Aurum/LOGO + QR/Dashboard_Aurum2.png"
-RUTA_EXCEL = r"/workspaces/Aurum/xlsx/BALANCE.xlsx"
+RUTA_LOGO  = r"LOGO + QR/Aurum.jpeg"
+RUTA_QR    = r"LOGO + QR/Dashboard_Aurum2.png"
+RUTA_EXCEL = r"xlsx/BALANCE.xlsx"
 # ══════════════════════════════════════════════════════
 
 img_b64, tipo    = cargar_imagen_local(RUTA_LOGO)
