@@ -231,7 +231,7 @@ with col_izq:
                 <div style="background:#ffffff; border:2px dashed #d4a96a;
                      border-radius:12px; min-height:190px; display:flex;
                      flex-direction:column; align-items:center; justify-content:center;">
-                    <div style="font-size:52px;">🍾</div>
+                    <div style="font-size:52px;"></div>
                     <p style="color:#7a4f1d; font-size:0.68rem; font-style:italic;
                               margin:4px 0 0; text-align:center;">Sin logo</p>
                     <p style="color:#c8922a; font-size:0.62rem; margin:2px 0 0;">Edita RUTA_LOGO</p>
